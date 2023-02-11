@@ -1,0 +1,11 @@
+{
+  "name": "cronjobs",
+  "version": "1.0.0",
+  "description": "cron jobs schedular using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "author": "Batsy",
+  "license": "ISC"
+}
