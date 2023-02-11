@@ -7,5 +7,11 @@
     "start": "npx nodemon src/index.js"
   },
   "author": "Batsy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
